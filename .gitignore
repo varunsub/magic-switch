@@ -73,3 +73,4 @@ node_modules/
 
 # Raw screenshot captures (local inputs to docs/annotate-screenshots.sh)
 docs/assets/raw/
+/build/
